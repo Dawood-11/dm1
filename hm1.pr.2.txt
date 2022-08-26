@@ -1,0 +1,16 @@
+#CSCI 1550: HW 1, problem 2
+#Filename: hw1pr2.txt
+#Name: Dawood 
+
+#Task 2: Making pbj's ... hold the J!
+
+#1 Gather your ingredients for the sandwich
+#2 Put gloves on
+#3 Pull out two slices of bread
+#4 Open the peanut butter 
+#5 Spread the peanut butter onto one slice of bread
+#6 Spread the jelly onto the other slice of bread
+#7 Combine the two slices 
+#8 Cut of the Crusts
+#9 Clean up your workspace
+#10 Enjoy your sandwich
